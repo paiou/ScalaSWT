@@ -1,5 +1,7 @@
 package org.consultar.scala.swtdsl
 
+import scala.language.implicitConversions
+
 import scala.annotation.target.setter
 import scala.annotation.target.getter
 import org.eclipse.core.databinding.DataBindingContext
