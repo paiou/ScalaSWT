@@ -1,5 +1,7 @@
 package org.consultar.scala.swtdsl
 
+import scala.language.reflectiveCalls
+
 import org.eclipse.swt._
 import org.eclipse.swt.graphics.Image
 import org.eclipse.swt.layout._
